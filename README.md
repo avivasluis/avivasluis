@@ -1,4 +1,9 @@
-## Hi there 👋
+# About me
+
+Telecommunications Engineer with a specialization in Deep Learning for Multimedia Processing.
+
+- 🔭 I’m currently conducting research on exploring applications of Graph Neural Networks (GNNs) and relational databases, specifically investigating efficient techniques to transform structured relational data into graph representations for processing via deep learning models.
+
 
 <!--
 **avivasluis/avivasluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
