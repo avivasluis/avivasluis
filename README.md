@@ -2,7 +2,7 @@
 
 Telecommunications Engineer with a specialization in Deep Learning for Multimedia Processing.
 
-- 🔭 I’m currently conducting research on exploring applications of Graph Neural Networks (GNNs) and relational databases, specifically investigating efficient techniques to transform structured relational data into graph representations for processing via deep learning models.
+I’m currently conducting research on exploring applications of Graph Neural Networks (GNNs) and relational databases, specifically investigating efficient techniques to transform structured relational data into graph representations for processing via deep learning models.
 
 
 <!--
